@@ -1,0 +1,6 @@
+int contador = 123;
+// Este es un comentario de una línea
+return resultado;
+/* Este es un comentario
+   de múltiples líneas */
+char* mensaje = "Hola mundo";
